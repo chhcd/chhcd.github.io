@@ -155,7 +155,7 @@
 		right: 10px;
 	}
 
-@media (min-width: 865px) {
+/*@media (min-width: 865px) {*/
 
 	.no-touch .cs-style-3 figure:hover img,
 	.cs-style-3 figure.cs-hover img {
@@ -176,7 +176,7 @@
 		-moz-transition: -moz-transform 0.4s, opacity 0.1s;
 		transition: transform 0.4s, opacity 0.1s;
 	}
-}
+/*}*/
 
 /* Caption Style 4 */
 .cs-style-4 li {
