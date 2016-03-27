@@ -53,6 +53,19 @@ background-color: #a7a2a2;
   border-color: #ffffff;
 }
 
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus {
+  color: #262626;
+  text-decoration: none;
+  background-color: #f0f0f0;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #333;
+  background-color: #f0f0f0;
+}
+
 .navbar-brand {
   padding-top: 0px;
   padding-bottom: 0px;
